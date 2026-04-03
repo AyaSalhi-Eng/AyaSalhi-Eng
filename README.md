@@ -42,12 +42,6 @@ I am a **Communications and Networks Engineer** (EUR-ACE labeled) specializing i
 
 ---
 
-## 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AyaSalhi&show_icons=true&theme=radical" alt="AyaSalhi GitHub Stats" />
-</p>
-
----
 
 ### 📩 Contact Me
 - **LinkedIn:** [Aya Salhi](https://www.linkedin.com/in/eya-salhy/)

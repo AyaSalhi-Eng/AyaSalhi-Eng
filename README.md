@@ -8,28 +8,29 @@
 ---
 
 ## 🚀 About Me
-I am a **Communications and Networks Engineer** (EUR-ACE labeled) with a strong focus on secure network architectures and modern Cloud solutions. I specialize in bridging the gap between industrial infrastructure and advanced security monitoring.
+## 🚀 About Me
+I am a **Communications and Networks Engineer** (EUR-ACE labeled) specializing in secure infrastructure and modern Cloud solutions. My expertise is backed by industry-standard certifications in both Networking and Cloud Security.
 
+- 🎓 **Top Certifications:** **Cisco Certified Network Associate (CCNA)** | **Microsoft Certified: SC-900**.
 - 🔭 **Currently focused on:** Hybrid Cloud Infrastructure and Advanced Network Supervision.
-- ⚡ **Key Project:** Designed and implemented a centralized monitoring system (OpManager Plus) for the **Compagnie des Phosphates de Gafsa (CPG)**.
-- 🔐 **Expertise:** Cloud Security Fundamentals (**Microsoft SC-900**), SNMPv3, VLAN Segmentation, and L3 Troubleshooting.
-- 🎓 **Certifications:** Microsoft Certified: Security, Compliance, and Identity Fundamentals | **USAID** Certified Trainer.
-- 🌍 **Goal:** Delivering resilient, high-availability, and cloud-integrated network solutions for global enterprises.
+- ⚡ **Key Project:** Designed and implemented a centralized monitoring system (OpManager Plus) for the **CPG**.
+- 🔐 **Expertise:** Routing & Switching, SNMPv3, VLAN Segmentation, and L3 Troubleshooting.
+- 🌍 **Goal:** Delivering resilient, high-availability, and cloud-integrated network solutions.
 
 ---
 
 ## 🛠 Tech Stack & Networking Skills
 ### 🌐 Networking & Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/cisco_ccna-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
   <img src="https://img.shields.io/badge/wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Main_Protocols-SNMPv3%20|%20OSPF%20|%20VLAN-blue?style=for-the-badge" alt="Protocols" />
+  <img src="https://img.shields.io/badge/Main_Protocols-OSPF%20|%20BGP%20|%20VLAN%20|%20STP-blue?style=for-the-badge" alt="Protocols" />
 </p>
 
 ### ☁️ Cloud & Security
 <p align="left">
+  <img src="https://img.shields.io/badge/microsoft_sc--900-Certified-green?style=for-the-badge&logo=microsoft" alt="SC-900" />
   <img src="https://img.shields.io/badge/microsoft%20azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Microsoft_SC--900-Certified-green?style=for-the-badge&logo=microsoft" alt="SC-900" />
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 

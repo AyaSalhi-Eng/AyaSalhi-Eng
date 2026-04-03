@@ -8,7 +8,6 @@
 ---
 
 ## 🚀 About Me
-## 🚀 About Me
 I am a **Communications and Networks Engineer** (EUR-ACE labeled) specializing in secure infrastructure and modern Cloud solutions. My expertise is backed by industry-standard certifications in both Networking and Cloud Security.
 
 - 🎓 **Top Certifications:** **Cisco Certified Network Associate (CCNA)** | **Microsoft Certified: SC-900**.

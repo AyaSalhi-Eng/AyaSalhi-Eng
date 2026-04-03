@@ -50,5 +50,5 @@ I am a **Communications and Networks Engineer** (EUR-ACE labeled) with a strong 
 ---
 
 ### 📩 Contact Me
-- **LinkedIn:** [Aya Salhi](https://www.linkedin.com/in/votre-profil-ici)
+- **LinkedIn:** [Aya Salhi](https://www.linkedin.com/in/eya-salhy/)
 - **Portfolio:** Check my [CPG Network Project](https://github.com/AyaSalhi/Network-Monitoring-Architecture-CPG)
